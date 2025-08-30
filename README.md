@@ -1,5 +1,9 @@
 # ShadowMate
 
+![Версія](https://img.shields.io/badge/version-14.0-blue)
+![Ліцензія](https://img.shields.io/badge/license-MIT-green)
+![Статус](https://img.shields.io/badge/status-active-brightgreen)
+
 This is a full-featured chess bot for Chess.com that uses the **Stockfish** engine to find the best moves. The script works as a browser extension, allowing you to automate games or analyze positions in real time.
 
 **⚠️ Important Note:** Using bots on Chess.com is against their terms of service and can lead to your account being banned. This script is provided for educational and experimental purposes only. You use it at your own risk.
