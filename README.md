@@ -3,6 +3,8 @@
 ![Версія](https://img.shields.io/badge/version-14.0-blue)
 ![Ліцензія](https://img.shields.io/badge/license-MIT-green)
 ![Статус](https://img.shields.io/badge/status-active-brightgreen)
+![Статус](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Підтримка](https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg)
 
 This is a full-featured chess bot for Chess.com that uses the **Stockfish** engine to find the best moves. The script works as a browser extension, allowing you to automate games or analyze positions in real time.
 
