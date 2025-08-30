@@ -1,5 +1,5 @@
 # ShadowMate
-
+![ShadowMate Banner](images/banner.jpg)
 ![Версія](https://img.shields.io/badge/version-14.0-blue)
 ![Ліцензія](https://img.shields.io/badge/license-MIT-green)
 ![Статус](https://img.shields.io/badge/status-active-brightgreen)
