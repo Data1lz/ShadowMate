@@ -1,0 +1,37 @@
+# Це назва твого робочого процесу
+name: Lint Code Base
+
+# Це події, які запускають робочий процес
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+# Це завдання, які будуть виконуватись
+jobs:
+  lint:
+    # Запускаємо завдання на останній версії Ubuntu
+    runs-on: ubuntu-latest
+
+    # Кроки, які потрібно виконати
+    steps:
+      # Завантажуємо код з репозиторію
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # Встановлюємо Node.js, необхідний для ESLint
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      # Встановлюємо лінтер ESLint
+      - name: Install ESLint
+        run: npm install eslint
+
+      # Запускаємо перевірку твого скрипта
+      - name: Run ESLint
+        run: npx eslint chess_bot.js
