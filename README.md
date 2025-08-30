@@ -28,6 +28,7 @@ This is a full-featured chess bot for Chess.com that uses the **Stockfish** engi
 
 ## Demo
 
+![Скріншот інтерфейсу бота](images/bot-interface.png)
 
 
 ## Technical Details
