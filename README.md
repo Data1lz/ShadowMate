@@ -1,4 +1,3 @@
-![ShadowMate Banner](images/baner.png)
 # ShadowMate
 
 ![Версія](https://img.shields.io/badge/version-14.0-blue)
