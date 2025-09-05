@@ -48,3 +48,6 @@ The script is developed in pure JavaScript using the jQuery library. For chess c
 ## Disclaimer
 
 The author is not responsible for any consequences related to the use of this script, including, but not limited to, account bans. Be responsible and use this tool ethically.
+
+And to our amazing contributors!
+<p align="center"><img src="https://contrib.rocks/image?repo=luluwaffless/wplacer"></p>
